@@ -1,10 +1,19 @@
 /* 1HEATHER ADVICE STYLING */
- .heather-advice{
-  text-align: center;
+.heather-advice{
   font-size: 11px;
   background-color: #f9f9ff;
-
 }
-h4{
-    
+
+.heather-advice h1{
+  text-align: center;
+}
+
+.heather-advice .advice{
+  padding: 1em 5em;
+}
+
+.heather-advice h4{
+    text-align: center;
+    font-family: helevatica arial;
+    font-size: 1.5em;
 }
